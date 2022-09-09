@@ -18,6 +18,7 @@ quasar dev
 
 ### Run the test
 
-```yarn vitest
+```
+yarn vitest
 
 ```
