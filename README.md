@@ -14,6 +14,8 @@ npm install
 
 ```bash
 quasar dev
+# or
+yarn dev
 ```
 
 ### Run the test
